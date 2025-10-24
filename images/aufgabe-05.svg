@@ -1,3 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="500" version="1.1" width="500">
     
+ </defs><ellipse cx="250" cy="320" rx="200" ry="50" fill="skyblue" />
+ <ellipse cx="250" cy="220" rx="200" ry="50" fill="yellow" />   
+ <ellipse cx="250" cy="120" rx="200" ry="50" fill="violet"/>
+    
+</defs>
 </svg>
